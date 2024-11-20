@@ -11,7 +11,7 @@ Our goal is to build an open, inclusive, and boundless community. Here, no matte
 
 If you are eager to participate, please familiarize yourself with our [LICENSE](https://github.com/song940/.github/blob/main/LICENSE.md). We apply the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt) with certain specific limitations to our code contributions. This includes, but is not limited to, the potential of us using your codes for a commercial closed version, and imposing restrictions on certain entities' usage. Once you’ve fully understood and agree to abide by these terms, please refer to the guidelines in the [CONTRIBUTING](https://github.com/song940/.github/blob/main/CONTRIBUTING.md) file. 
 
-如果您已经跃跃欲试，想要参加，那么请您务必了解项目的 [LICENSE.md](LICENSE.md)，如果项目中没有提供，将使用 [默认授权许可证](https://github.com/song940/.github/blob/main/LICENSE.md)，我们对代码贡献使用 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt) 协议，并增加了一些特定的限制。这包括但不限于我们可能使用您的代码进行商业封闭版本，以及对某些实体使用提出限制。一旦您完全理解并同意遵守这些条款，请参考 [CONTRIBUTING](https://github.com/song940/.github/blob/main/CONTRIBUTING.md) 文件中的指导。
+如果您已经跃跃欲试，想要参加，那么请您务必了解项目的 <a href="./LICENSE.md" >LICENSE.md</a>，如果项目中没有提供，将使用 [默认授权许可证](https://github.com/song940/.github/blob/main/LICENSE.md)，我们对代码贡献使用 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt) 协议，并增加了一些特定的限制。这包括但不限于我们可能使用您的代码进行商业封闭版本，以及对某些实体使用提出限制。一旦您完全理解并同意遵守这些条款，请参考 [CONTRIBUTING](https://github.com/song940/.github/blob/main/CONTRIBUTING.md) 文件中的指导。
 
 This code of conduct will be interpreted and enforced by community leaders and project maintainers. Inappropriate or not rule-compliant behaviors should be reported to the project management team. If security issues are detected, refer to the [SECURITY.md](https://github.com/song940/.github/blob/main/SECURITY.md) for reporting. 
 
@@ -23,6 +23,8 @@ All complaints will be reviewed and investigated in an apt manner, and responded
 
 ---
 
-Lsong 
-hi@lsong.org 
-https://lsong.org
+<address>
+Lsong
+<a href="mailto:hi@lsong.org">hi@lsong.org</a>
+<a href="https://lsong.org">https://lsong.org</a>
+</address>

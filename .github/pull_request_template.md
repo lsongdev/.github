@@ -1,26 +1,23 @@
-<!-- 
-Thanks for creating this pull request 🤗
+## Summary
 
-Please make sure that the pull request is limited to one type (docs, feature, etc.) and keep it as small as possible. You can open multiple prs instead of opening a huge one.
--->
+<!-- Why is this change needed? Keep this PR focused. -->
 
-<!-- If this pull request closes an issue, please mention the issue number below -->
-Closes # <!-- Issue # here -->
+## Changes
 
-## 📑 Description
-<!-- Add a brief description of the pr -->
+<!-- Describe the main changes and any compatibility impact. -->
 
-<!-- You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
-- [ ] Not Completed
-- [x] Completed
--->
+## Verification
 
-## ✅ Checks
-<!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
-- [ ] My pull request adheres to the code style of this project
-- [ ] My code requires changes to the documentation
-- [ ] I have updated the documentation as required
-- [ ] All the tests have passed
+<!-- Include commands/tests performed and their results, or explain why tests were not run. -->
 
-## ℹ Additional Information
-<!-- Any additional information like breaking changes, dependencies added, screenshots, comparisons between new and old behavior, etc. -->
+## Related issues
+
+<!-- Optional: Closes #123 -->
+
+## Checklist
+
+- [ ] I have reviewed the project's applicable contribution and license instructions.
+- [ ] I have included relevant tests or explained why they are not needed.
+- [ ] I have updated documentation when behavior or usage changed.
+
+<!-- Some projects separately adopt the Lsong CLA. If this project does, a maintainer will request recorded affirmative acceptance as required. This template does not automatically execute a CLA. -->

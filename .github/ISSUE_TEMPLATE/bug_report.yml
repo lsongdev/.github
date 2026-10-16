@@ -1,39 +1,37 @@
-name: 🐛Bug Report
-description: File a bug report here
-title: "[BUG]: "
-labels: ["bug"]
-assignees: ["AnishDe12020"]
+name: "🐛 Bug report"
+description: Report an issue with a project
+title: "[BUG] "
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report 🤗
-        Make sure there aren't any open/closed issues for this topic 😃
-        
+        Thanks for reporting a bug. Please search existing issues first.
+        **Do not disclose security vulnerabilities here.** Report them privately according to SECURITY.md.
   - type: textarea
-    id: bug-description
+    id: description
     attributes:
-      label: Description of the bug
-      description: Give us a brief description of what happened and what should have happened
+      label: What happened?
+      description: Describe the problem and the expected behavior.
     validations:
       required: true
-      
   - type: textarea
-    id: steps-to-reproduce
+    id: reproduction
     attributes:
-      label: Steps To Reproduce
-      description: Steps to reproduce the behavior.
+      label: Steps to reproduce
+      description: Provide the smallest reproducible example or steps.
       placeholder: |
-        1. Go to '...'
-        2. Click on '...'
-        3. Scroll down to '...'
-        4. See error
+        1. ...
+        2. ...
+        3. ...
     validations:
       required: true
-      
-  - type: textarea
-    id: additional-information
+  - type: input
+    id: version
     attributes:
-      label: Additional Information
-      description: |
-        Provide any additional information such as logs, screenshots, likes, scenarios in which the bug occurs so that it facilitates resolving the issue.
+      label: Version or commit
+      description: Include the affected release or commit hash, if known.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and logs
+      description: OS, runtime, hardware, and relevant logs or screenshots (remove secrets).

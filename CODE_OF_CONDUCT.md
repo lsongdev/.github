@@ -1,30 +1,45 @@
-# Contributor Covenant Code of Conduct
-# 贡献者契约行为准则
+# Community Code of Conduct / 社区行为准则
 
-We appreciate your interest in our open source project. We are deeply immersed and grateful for this unique culture of the open source community, and we look forward to collaborating with you in building a more prosperous open source world. 
+## Our commitment / 我们的承诺
 
-首先，我们感谢您对我们的开源项目产生兴趣。我们热爱并感激开源社区这一独特的文化，期待与您一道共同建设更加繁荣的开源世界。
+We welcome people who want to learn, share, discuss, and improve software together, regardless of background, experience, identity, or ability. We expect participants to treat one another with respect.
 
-Our goal is to build an open, inclusive, and boundless community. Here, no matter one's age, body size, physical abilities, race, gender identity and expression, experience level, educational background, socio-economic status, nationality, physical appearance, or skin color – all are invited to contribute equally. We do not tolerate any form of harassment, belittling, discrimination, or dishonest behavior, including any public or private threats, insults, and defamation. Such negative behaviors are staunchly opposed by our community.
+我们欢迎不同背景、经验和身份的人共同学习、交流、改进软件，并期待参与者彼此尊重。
 
-我们的目标是建设一个开放、包容且无界的社区。在这里，无论年龄、体型、身体机能、种族、性别认同与表达、经验层次、教育背景、社会经济地位、国籍、体貌或肤色，所有人都若被平等地邀请参与。我们不容忍任何形式的骚扰、贬低、歧视或不诚实的行为，包括公开或私下的威胁、侮辱和诽谤。我们的社区将坚决抵制这些负面行为。
+## Expected behavior / 倡导的行为
 
-If you are eager to participate, please familiarize yourself with our [LICENSE](https://github.com/song940/.github/blob/main/LICENSE.md). We apply the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt) with certain specific limitations to our code contributions. This includes, but is not limited to, the potential of us using your codes for a commercial closed version, and imposing restrictions on certain entities' usage. Once you’ve fully understood and agree to abide by these terms, please refer to the guidelines in the [CONTRIBUTING](https://github.com/song940/.github/blob/main/CONTRIBUTING.md) file. 
+- Be constructive and considerate in discussions and reviews.
+- Offer actionable feedback; disagree with ideas without attacking people.
+- Respect differing skill levels, accessibility needs, and privacy.
+- Credit others' work and acknowledge mistakes.
 
-如果您已经跃跃欲试，想要参加，那么请您务必了解项目的 <a href="./LICENSE.md" >LICENSE.md</a>，如果项目中没有提供，将使用 [默认授权许可证](https://github.com/song940/.github/blob/main/LICENSE.md)，我们对代码贡献使用 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt) 协议，并增加了一些特定的限制。这包括但不限于我们可能使用您的代码进行商业封闭版本，以及对某些实体使用提出限制。一旦您完全理解并同意遵守这些条款，请参考 [CONTRIBUTING](https://github.com/song940/.github/blob/main/CONTRIBUTING.md) 文件中的指导。
+- 在讨论与代码审查中保持建设性与尊重。
+- 针对问题提出可执行的反馈，而非人身攻击。
+- 尊重经验差异、无障碍需求及隐私。
+- 尊重他人贡献，愿意承认并纠正错误。
 
-This code of conduct will be interpreted and enforced by community leaders and project maintainers. Inappropriate or not rule-compliant behaviors should be reported to the project management team. If security issues are detected, refer to the [SECURITY.md](https://github.com/song940/.github/blob/main/SECURITY.md) for reporting. 
+## Unacceptable behavior / 不可接受的行为
 
-本行为准则将由社区领导者和项目维护者进行解释和执行。任何不适当或不遵守规定的行为，都应向项目管理团队报告。如果发现安全问题，可以参考 [SECURITY.md](https://github.com/song940/.github/blob/main/SECURITY.md) 进行报告。
+Harassment, discriminatory insults, threats, deliberate intimidation, publishing private information without permission, and persistent disruptive behavior are not acceptable in project-managed spaces.
 
-All complaints will be reviewed and investigated in an apt manner, and responded to if required. 
+骚扰、歧视性侮辱、威胁、故意恐吓、未经许可泄露他人隐私，以及持续破坏正常交流秩序的行为，均不被接受。
 
-所有的投诉都将以适当的方式进行审查和调查，并在需要时作出回应。
+## Scope / 适用范围
 
----
+This policy applies to issues, pull requests, discussions, and other spaces managed by the project, and to participants representing the project in public.
 
-<address>
-Lsong
-<a href="mailto:hi@lsong.org">hi@lsong.org</a>
-<a href="https://lsong.org">https://lsong.org</a>
-</address>
+本准则适用于项目管理的 Issue、PR、讨论等空间，也适用于以项目代表身份进行的公开交流。
+
+## Reporting and enforcement / 举报与处理
+
+Report conduct concerns privately to [hi@lsong.org](mailto:hi@lsong.org), including relevant links and context. Maintainers will assess reports, minimize unnecessary disclosure, and may request changes, remove content, restrict participation, or block accounts where appropriate. No specific response time is guaranteed.
+
+如需举报行为问题，请私下联系 [hi@lsong.org](mailto:hi@lsong.org)，并附上相关链接和上下文。维护者将审查情况、尽量保护报告者隐私，并视情况要求整改、删除内容、限制参与或封禁账号。我们不承诺固定处理时效。
+
+Security vulnerabilities should instead be reported via [SECURITY.md](SECURITY.md).
+
+安全漏洞请按照 [SECURITY.md](SECURITY.md) 单独报告。
+
+This policy governs conduct, not software licensing. See each project's own license for use and redistribution rights.
+
+本准则仅规范社区行为；软件授权以各项目明确采用的许可证为准。

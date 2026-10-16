@@ -2,33 +2,33 @@
 
 ## Rights and obligations at a glance / 权利与义务简述
 
-**English:** You may use, study, copy, and modify software licensed under the AGPLv3, including for commercial purposes. The license does not require a payment merely because software is used commercially.
+You may use, study, copy, and modify software licensed under the AGPLv3, including for commercial purposes. The license does not require a payment merely because software is used commercially.
 
-**中文：** 您可以使用、学习、复制和修改采用 AGPLv3 授权的软件，也可以将其用于商业用途。仅仅因为用于商业目的，并不意味着必须付费。
+您可以使用、学习、复制和修改采用 AGPLv3 授权的软件，也可以将其用于商业用途。仅仅因为用于商业目的，并不意味着必须付费。
 
-**English:** You may redistribute original or modified versions, including for a fee, provided that you comply with the license's copyright notice, licensing, and Corresponding Source requirements. Changes to covered works distributed under AGPLv3 must remain under its terms.
+You may redistribute original or modified versions, including for a fee, provided that you comply with the license's copyright notice, licensing, and Corresponding Source requirements. Changes to covered works distributed under AGPLv3 must remain under its terms.
 
-**中文：** 您可以免费或收费再分发原版及修改版，但必须遵守版权声明、许可证以及对应源码的提供义务。再分发的受 AGPLv3 约束作品及其修改，必须遵守该协议的要求。
+您可以免费或收费再分发原版及修改版，但必须遵守版权声明、许可证以及对应源码的提供义务。再分发的受 AGPLv3 约束作品及其修改，必须遵守该协议的要求。
 
-**English:** If you modify an AGPL-covered program and users interact with that modified version remotely through a computer network, Section 13 requires offering those users access to its Corresponding Source. This applies to free and paid online services alike.
+If you modify an AGPL-covered program and users interact with that modified version remotely through a computer network, Section 13 requires offering those users access to its Corresponding Source. This applies to free and paid online services alike.
 
-**中文：** 如果您修改了受 AGPL 约束的程序，并允许用户通过网络与该修改版交互，第 13 条要求向这些用户提供获取对应源码的机会。免费和收费在线服务均适用。
+如果您修改了受 AGPL 约束的程序，并允许用户通过网络与该修改版交互，第 13 条要求向这些用户提供获取对应源码的机会。免费和收费在线服务均适用。
 
-**English:** Private use and private modifications are generally permitted without publishing source code, as long as no distribution or other AGPL source-offer obligation is triggered. Using software within a company does not automatically require publishing every internal modification.
+Private use and private modifications are generally permitted without publishing source code, as long as no distribution or other AGPL source-offer obligation is triggered. Using software within a company does not automatically require publishing every internal modification.
 
-**中文：** 一般而言，只在内部使用和修改软件，无须公开源码；但如果发生软件分发或其他触发 AGPL 源码提供义务的情形，仍须遵守协议。公司内部使用并不自动要求公开所有内部修改。
+一般而言，只在内部使用和修改软件，无须公开源码；但如果发生软件分发或其他触发 AGPL 源码提供义务的情形，仍须遵守协议。公司内部使用并不自动要求公开所有内部修改。
 
-**English:** The AGPLv3 does not prohibit sales, commercial support, or independently developed programs merely communicating over an interface. Whether combined code forms a covered work depends on the applicable copyright rules and the actual integration.
+The AGPLv3 does not prohibit sales, commercial support, or independently developed programs merely communicating over an interface. Whether combined code forms a covered work depends on the applicable copyright rules and the actual integration.
 
-**中文：** AGPLv3 不禁止收费销售、商业支持，也不会仅因独立开发的软件通过接口通信，就自动要求其采用 AGPL。组合代码是否构成受协议约束的作品，应结合实际集成方式和适用版权规则判断。
+AGPLv3 不禁止收费销售、商业支持，也不会仅因独立开发的软件通过接口通信，就自动要求其采用 AGPL。组合代码是否构成受协议约束的作品，应结合实际集成方式和适用版权规则判断。
 
-**English:** An alternative commercial license may be available from the copyright holders or their authorized representative if you need permissions different from those granted by the AGPLv3, such as proprietary distribution. A separate license requires an actual agreement; it is not implied by payment or sponsorship. Contact: [hi@lsong.org](mailto:hi@lsong.org).
+An alternative commercial license may be available from the copyright holders or their authorized representative if you need permissions different from those granted by the AGPLv3, such as proprietary distribution. A separate license requires an actual agreement; it is not implied by payment or sponsorship. Contact: [hi@lsong.org](mailto:hi@lsong.org).
 
-**中文：** 如果您需要 AGPLv3 以外的授权条件（例如闭源分发），可联系版权所有者或其合法授权代表洽谈单独商业许可。商业授权必须明确达成协议，不会仅因付费或赞助而自动获得。联系邮箱：[hi@lsong.org](mailto:hi@lsong.org)。
+如果您需要 AGPLv3 以外的授权条件（例如闭源分发），可联系版权所有者或其合法授权代表洽谈单独商业许可。商业授权必须明确达成协议，不会仅因付费或赞助而自动获得。联系邮箱：[hi@lsong.org](mailto:hi@lsong.org)。
 
-**English:** The software is supplied without warranty, and the AGPLv3 does not oblige maintainers to provide free support or updates. Third-party sellers and service providers are responsible for the commitments they make to customers.
+The software is supplied without warranty, and the AGPLv3 does not oblige maintainers to provide free support or updates. Third-party sellers and service providers are responsible for the commitments they make to customers.
 
-**中文：** 软件按 AGPLv3 的免责条款提供，维护者不因软件授权而承担免费技术支持或持续更新的义务。第三方销售者、部署方和服务商应自行承担其向客户作出的服务承诺。
+软件按 AGPLv3 的免责条款提供，维护者不因软件授权而承担免费技术支持或持续更新的义务。第三方销售者、部署方和服务商应自行承担其向客户作出的服务承诺。
 
 > **Important / 重要：** The bilingual summary above is explanatory only. It is **not** an additional license, exception, restriction, warranty, or amendment. In case of any difference, the unmodified English GNU AGPLv3 text below governs. Commercial licenses, if any, are separate written agreements.
 >

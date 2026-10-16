@@ -1,47 +1,41 @@
-# Lsong Community & Licensing
+# Lsong Open Source
 
-Shared community guidelines and license reference material for projects maintained by [lsongdev](https://github.com/lsongdev).
+This repository maintains shared community guidelines, contribution policies, and GitHub templates for projects by [lsongdev](https://github.com/lsongdev). It is a common home for collaboration conventions, not a software project or a license registry alone.
 
-## Licensing / 软件授权
-
-The preferred license for participating projects is **GNU Affero General Public License v3.0 only (`AGPL-3.0-only`)**, with optional separately negotiated commercial licensing where the relevant copyright rights are available.
-
-推荐使用 **GNU AGPLv3（`AGPL-3.0-only`）**，有需要时可由拥有相应权利的版权所有者另行提供商业授权。
-
-The canonical license reference in this repository is [LICENSE.md](LICENSE.md). It begins with a short English/Chinese explanation followed by the unmodified AGPLv3 text. The summary is not an additional license condition.
-
-本仓库的 [LICENSE.md](LICENSE.md) 是集中维护的许可证参考文件，包含中英对照摘要与完整、未经修改的 AGPLv3 原文；摘要不增加法律限制。
-
-**Each project chooses its own license.** This `.github` repository does **not** automatically license other repositories, and adopting these community guidelines does not automatically change an existing project's license.
-
-**具体项目自行选择许可证。** 本仓库不会自动为其他仓库授权；采用全局社区规范也不会改变现有项目已经授予的许可。
-
-Projects choosing AGPLv3 can state in their README:
-
-~~~md
-This project is licensed under the GNU Affero General Public License v3.0 only
-(SPDX: AGPL-3.0-only). See the [full license text](https://github.com/lsongdev/.github/blob/main/LICENSE.md).
-~~~
-
-For a project that is cloned, released, or redistributed, **include a copy of the applicable license text with the project**, preferably as a local `LICENSE` file. A link to this repository is useful for maintenance, but does not replace the license-copy requirements for conveying AGPL-covered software, and GitHub does not inherit a default LICENSE from `.github`.
-
-项目在克隆、发布和再分发时，**仍建议在仓库内附带完整许可证副本**（通常为 `LICENSE`）；单独链接本仓库不能取代分发时的许可证副本义务，也不会使 GitHub 自动识别为全局默认许可证。
-
-This repository does not retroactively relicense existing releases or third-party contributions.
+这个仓库用于统一维护 [lsongdev](https://github.com/lsongdev) 各项目的社区规范、贡献政策及 GitHub 模板。它是开放协作的公共入口，而不只是一个许可证仓库。
 
 ## Community / 社区
 
-- [Code of Conduct / 行为准则](CODE_OF_CONDUCT.md)
-- [Contributing / 贡献指南](CONTRIBUTING.md)
-- [Security Policy / 安全政策](SECURITY.md)
-- [Support / 支持说明](SUPPORT.md)
-- [Brand and attribution / 品牌与署名](TRADEMARKS.md)
-- [Contributor License Agreement / 贡献者许可协议](CLA.md) — applies only if a project explicitly adopts it and the contributor affirmatively accepts it.
+We value open collaboration and the sharing of knowledge. You are welcome to learn from our projects, report issues, suggest improvements, and contribute code. Please respect other contributors and follow each project's own instructions.
 
-GitHub can reuse supported community health files from this public `.github` repository where an individual project has not supplied its own. A project's own files take precedence.
+我们珍惜开放协作与知识共享，也欢迎大家学习、报告问题、提出建议或参与代码贡献。请尊重其他参与者，并遵循各项目自身的说明。
 
-## Commercial licenses / 商业授权
+The [Code of Conduct](CODE_OF_CONDUCT.md) sets out our expectations for respectful participation, while [Contributing](CONTRIBUTING.md) explains how to work with individual projects. For help, see [Support](SUPPORT.md); for vulnerability reports, see [Security](SECURITY.md).
 
-AGPLv3 **permits commercial use**. A separate commercial license is relevant only when different permissions are needed (for example, proprietary redistribution). It can cover only rights controlled by the granting copyright holders.
+[行为准则](CODE_OF_CONDUCT.md)说明社区交流的基本原则，[贡献指南](CONTRIBUTING.md)介绍参与项目的方式。使用问题可参考[支持说明](SUPPORT.md)，安全漏洞请依照[安全政策](SECURITY.md)私下报告。
 
-AGPLv3 **允许商业使用**；如需与 AGPL 不同的授权条件（例如闭源再分发），请联系 [hi@lsong.org](mailto:hi@lsong.org) 协商。商业授权的范围以授权方实际拥有的权利及单独合同为准。
+## Shared GitHub files / 通用配置
+
+The `.github/` directory provides default issue forms, a pull request template, and funding information. GitHub uses supported community health files from this public repository when an individual repository does not define its own. Repository-specific files take precedence.
+
+`.github/` 目录提供通用的 Issue 表单、PR 模板和赞助信息。当具体项目没有提供对应文件时，GitHub 可使用本公共仓库中受支持的默认社区文件；项目自身的配置始终优先。
+
+## Licensing / 软件授权
+
+Each project chooses and declares its own software license. This repository keeps a bilingual [GNU AGPLv3 reference](LICENSE.md), with a short rights summary followed by the unmodified license text. The summary is explanatory only and does not alter the legal terms.
+
+每个项目自行选择并声明其软件许可证。本仓库集中维护包含简要中英对照说明及完整协议原文的 [GNU AGPLv3 参考文件](LICENSE.md)。摘要仅用于帮助阅读，不修改原协议条款。
+
+A project may explicitly adopt `AGPL-3.0-only` and link to that reference. However, a license in this repository does **not** automatically apply to other projects. For redistribution, projects should also include their applicable license text in their own source or release materials as required by that license.
+
+具体项目可以明确采用 `AGPL-3.0-only` 并链接上述文件，但这里的许可证**不会自动授权其他仓库**。进行源码或软件分发时，仍应按许可证要求在项目源码或发布材料中附上适用的协议文本。
+
+AGPLv3 permits commercial use under its terms. Where all necessary rights are available, separate commercial licensing may be negotiated for different conditions, such as proprietary distribution. Contact [hi@lsong.org](mailto:hi@lsong.org). Some projects also explicitly adopt a [Contributor License Agreement](CLA.md); it applies only with the contributor's affirmative acceptance.
+
+AGPLv3 允许符合其条款的商业使用。如需闭源分发等不同授权条件，并且具备相应权利，可通过 [hi@lsong.org](mailto:hi@lsong.org) 协商独立商业许可。部分项目还可能明确采用[贡献者许可协议](CLA.md)，但须由贡献者主动同意。
+
+## Attribution / 署名
+
+Please preserve required copyright and license notices, and distinguish unofficial forks and services from official releases. See [Project Names and Attribution](TRADEMARKS.md) for further guidance.
+
+请按照相应许可证保留版权与许可声明，并明确区分非官方 Fork、服务和正式发布版本。更多说明参见[项目名称与署名](TRADEMARKS.md)。
